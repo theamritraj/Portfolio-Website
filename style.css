@@ -326,7 +326,7 @@
       left:0;
       right:0;
       bottom:0;
-      background-color: #1f1f1f9a;
+      /* background-color: #1f1f1f9a; */
       z-index:0;
       /* transform: scaleX(1); */
     }
