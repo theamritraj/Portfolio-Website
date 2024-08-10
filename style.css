@@ -446,19 +446,19 @@
     }
   
     #project1{
-      background-image: url(./images/projects/Project1.png);
+      background-image: url(./images/projects/Tesla.png);
     }
   
     #project2{
       margin-left:120px;
-      background-image: url(./images/projects/Project2.png);
+      background-image: url(./images/projects/Spotify-clone.png);
     }
     #project3{
-      background-image: url(./images/projects/Project3.png);
+      background-image: url(./images/projects/Zaika\ Restaurant.png);
     }
     #project4{
       margin-left:120px;
-      background-image: url(./images/projects/Project4.png);
+      background-image: url(./images/projects/ThanCos\ Naturals.png);
     }
   
     @media (max-width:1300px) {
