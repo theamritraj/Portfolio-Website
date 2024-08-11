@@ -8,8 +8,6 @@
   :root {
     --bgOrange: #e84949;
   }
-
-  
   
   #wrapper{
       height:100vh;
@@ -463,7 +461,7 @@
       background-image: url(./images/projects/thancos\ Naturals.png);
     }
     #project5{
-      background-image: url(./images/projects/tesla.png);
+      background-image: url(./images/projects/netflix.png);
     }
   
     #project6{
