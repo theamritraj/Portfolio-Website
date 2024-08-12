@@ -468,6 +468,9 @@
       margin-left:120px;
       background-image: url(./images/projects/Starbucks-website.png);
     }
+    #project7{
+      background-image: url(./images/projects/swiggy.png);
+    }
   
     @media (max-width:1300px) {
       .page-header {
